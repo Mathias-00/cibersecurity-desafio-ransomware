@@ -2,10 +2,10 @@
 
 ### Crie o arquivo .txt para ser criptografado
 
--
+![Alt text](./arquivo%20txt.PNG "Optional title")
 
 ### Crie um arquivo para criptografar e um para desicriptograr
-
+![Alt text](./arquivos%20criados.PNG "Optional title")
 # encrypter.py
 - import os
 - import pyaes
@@ -48,3 +48,4 @@ os.remove(file_name)
 - new_file.close()
 
 # Resultado
+![Alt text](./txt%20criptografado.PNG "Optional title")
